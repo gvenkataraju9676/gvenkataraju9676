@@ -1,4 +1,4 @@
-Hello, World! 👋
+Hello, Everyone! 👋
 I'm venkataraju, a computer science student passionate about coding, problem-solving, and technology.
 
 About Me
