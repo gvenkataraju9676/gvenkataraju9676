@@ -15,7 +15,7 @@ I'm always up for a coding challenge, a collaborative project, or just a friendl
 
 Linkedin: https://www.linkedin.com/in/venkataraju-gogudesi-7051a1252/
 
-Leetcode: https://leetcode.com/20501a0553/
+Leetcode: https://leetcode.com/venkatarajug/
 
 💬 Message me here on GitHub or on LinkedIn.
 💻 Check out my portfolio website to see some of my projects.
